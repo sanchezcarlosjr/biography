@@ -77,6 +77,17 @@
       }
     },
     {
+      "startDate": "2018-09-01",
+      "endDate": "2020-01-01",
+      "headline": "Entrepeneur at Arsus",
+      "text": "A startup that delivered food within my college. Used Angular and Firebase. Achieved 500 users and a profit.",
+      "media": {
+        "url": "https://www.youtube.com/watch?v=yFZ3rPS-uhk&list=PLKIaQ4AGzXjGjsuqm5Ss1oJ8z2piRfK9M&index=1&ab_channel=CarlosSanchezExplica",
+        "credit": "Arsus",
+        "caption": "Arsus Delivery"
+      }
+    },
+    {
       "media": {
         "url": "https://www.youtube.com/watch?v=D8qmX108ttQ&t=236s&ab_channel=CarlosSanchezExplica",
         "caption": "Centro de Investigación y de Estudios Avanzados"
