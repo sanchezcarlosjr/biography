@@ -1,0 +1,147 @@
+{
+	"title": {
+		"media": {
+			"url": "./biography.jpg",
+			"caption": "Biography",
+			"credit": "Dani Maiz https://www.behance.net/gallery/68197377/Biography-work"
+		},
+		"unique_id": "d8ce68eca51d3307fc5244996fc8a234",
+		"text": {
+			"headline": "Biography <br/> ",
+			"text": "<p>Carlos Eduardo Sánchez Torres Biography.</p>"
+		}
+	},
+  "events": [
+    {
+			"media": {
+				"url": "./Puerto_Ensenada.jpg",
+				"caption": "Ensenada.",
+				"credit": "https://commons.wikimedia.org/wiki/File:Puerto_Ensenada.jpg"
+			},
+			"start_date": {
+				"month": "1",
+				"day": "25",
+				"year": "2000"
+			},
+			"end_date": {
+				"month": "1",
+				"day": "25",
+				"year": "2000"
+			},
+			"text": {
+				"headline": "My birthday",
+				"text": "<p>I was born in Ensenada, a coastal city located in the state of Baja California, Mexico.</p>"
+      }
+    },
+    {
+			"media": {
+				"url": "./programming.png",
+				"caption": "Programming.",
+				"credit": "https://github.com/sanchezcarlosjr/Estructura-de-Datos"
+			},
+			"start_date": {
+				"month": "1",
+				"day": "1",
+				"year": "2015"
+			},
+			"end_date": {
+				"month": "3",
+				"day": "2",
+				"year": "2018"
+			},
+			"text": {
+				"headline": "My first line of code",
+				"text": "<p>I learned to program from stratch.</p>"
+      }
+    },
+    {
+      "media": {
+        "url": "./facultad-ciencias-uabc.jpg",
+        "caption": "Universidad Autónoma de Baja California"
+      },
+      "start_date": {
+        "year": "2019",
+        "month": "06"
+      },
+      "end_date": {
+        "year": "2023",
+        "month": "12"
+      },
+      "text": {
+        "headline": "Bachelor of Computer Science, Nonlinear optimization",
+        "text": "<p>Grade: Computer Science Bachelor</p><p>Activities and societies: My thesis is \"WebAssembly library construction for investment portfolio optimization using efficient evolutionary algorithms\". Read a draft on <a href=\"https://www.overleaf.com/read/hwsbpdygsmzm\" target=\"_blank\" rel=\"noopener\">Overleaf</a>.</p><p>My favorite projects:</p><ul><li><a href=\"https://gist.github.com/sanchezcarlosjr/d03c53576beaed6d8a6ae8b4495a9f15\" target=\"_blank\" rel=\"noopener\">Introduction to algorithms notes</a></li><li><a href=\"https://graph-theory.sanchezcarlosjr.com/\" target=\"_blank\" rel=\"noopener\">Visualize Graph Theory in a Maze (WebGL)</a></li><li><a href=\"https://theory-of-computation-uabc.sanchezcarlosjr.com/\" target=\"_blank\" rel=\"noopener\">Theory of computation. Visualize Grammars, Compilers, and Automata</a></li></ul><p>Full list of projects available on <a href=\"https://github.com/sanchezcarlosjr/\" target=\"_blank\" rel=\"noopener\">GitHub</a>.</p>",
+        "media": {
+          "url": "https://www.uabc.mx/portal/",
+          "caption": "Universidad Autónoma de Baja California"
+        }
+      }
+    },
+    {
+      "media": {
+        "url": "https://www.youtube.com/watch?v=D8qmX108ttQ&t=236s&ab_channel=CarlosSanchezExplica",
+        "caption": "Centro de Investigación y de Estudios Avanzados"
+      },
+      "start_date": {
+        "year": "2022",
+        "month": "06"
+      },
+      "end_date": {
+        "year": "2022",
+        "month": "08"
+      },
+      "text": {
+        "headline": "Research summer at Centro de Investigación y de Estudios Avanzados del IPN",
+        "text": "<p>I participated in Programa Delfín at CINESTAV 2022, under the guidance of Carlos Coello, P.hD. During the program, I studied Evolutionary Algorithms and their application in solving optimization problems. As part of the research, I worked on the development of a non-dominated set generator CLI tool, which is available on <a href=\"https://github.com/sanchezcarlosjr/non-dominated-set-generator-cli\">Non dominated set generator CLI</a>.</p><p>Skills: Evolutionary Algorithms · Optimization · CLI tool development · Git</p>",
+        "media": {
+          "url": "https://www.cinvestav.mx/",
+          "caption": "Centro de Investigación y de Estudios Avanzados del IPN"
+        }
+      }
+    },
+    {
+      "media": {
+        "url": "./siiip.png",
+        "caption": "Sistema Institucional de Indicadores de Investigación y Posgrado (SIIIP)"
+      },
+      "start_date": {
+        "year": 2020,
+        "month": 9,
+        "day": 1
+      },
+      "end_date": {
+        "year": 2022,
+        "month": 5,
+        "day": 1
+      },
+      "text": {
+        "headline": "Full Stack Developer Internship at Universidad Autónoma de Baja California",
+        "text": "During my 1 year 9 months internship at UABC, I worked with Kubo, Ph.D. to develop a business intelligence system using PostgreSQL, Linux, Laravel, React.js, GraphQL, and Docker. The system provides UABC research insights and can be accessed at https://siiip.uabc.mx/. My skills utilized during this project included PostgreSQL, Linux, relational databases, teamwork, React.js, and Laravel."
+      }
+    },
+    {
+      "media": {
+        "url": "./evasim.png",
+        "caption": "EvaSim"
+      },
+      "start_date": {
+        "year": 2023,
+        "month": 1,
+        "day": 1
+      },
+      "end_date": {
+        "year": 2023,
+        "month": 2,
+        "day": 28
+      },
+
+      "text": {
+        "headline": "Assisting dementia patients with the Embodied Voice Assistant (Eva) Simulator",
+        "text": "<p>Technologies used include Unity and WebRTC.</p><p><a href='https://evasim.sanchezcarlosjr.com/' target='_blank'>https://evasim.sanchezcarlosjr.com/</a></p>"
+      },
+      "group": {
+        "content": "Internship",
+        "nestedGroups": ["Ensenada, Baja California, Mexico", "Hybrid"]
+      }
+    }
+  ]
+}
