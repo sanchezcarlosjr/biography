@@ -77,14 +77,24 @@
       }
     },
     {
-      "startDate": "2018-09-01",
-      "endDate": "2020-01-01",
-      "headline": "Entrepeneur at Arsus",
-      "text": "A startup that delivered food within my college. Used Angular and Firebase. Achieved 500 users and a profit.",
       "media": {
-        "url": "https://www.youtube.com/watch?v=yFZ3rPS-uhk&list=PLKIaQ4AGzXjGjsuqm5Ss1oJ8z2piRfK9M&index=1&ab_channel=CarlosSanchezExplica",
-        "credit": "Arsus",
-        "caption": "Arsus Delivery"
+				"url": "https://www.youtube.com/watch?v=yFZ3rPS-uhk",
+				"caption": "Demo.",
+				"credit": "Arsus Delivery"
+			},
+      "start_date": {
+        "year": "2018",
+        "month": "09",
+        "day": "01"
+      },
+      "end_date": {
+        "year": "2020",
+        "month": "01",
+        "day": "31"
+      },
+      "text": {
+        "headline": "Part-time Entrepreneur at Arsus",
+        "text": "<p>A startup that delivered food within my college. I used Angular and Firebase. I achieved 500 users and a profit.</p><p><a href='https://dev.azure.com/CEST-Arsus/ArsusEnterprise' target='_blank'>https://dev.azure.com/CEST-Arsus/ArsusEnterprise</a></p>"
       }
     },
     {
