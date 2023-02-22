@@ -163,6 +163,25 @@
         "content": "Internship",
         "nestedGroups": ["Ensenada, Baja California, Mexico", "Hybrid"]
       }
+    },
+    {
+			"media": {
+				"url": "./cancer-ai-new-times.jpg",
+				"caption": "MexicanPACS.",
+				"credit": "https://carlos-eduardo-sanchez-torres.sanchezcarlosjr.com/MexicanPACS-a-Breast-Cancer-risk-estimation-at-a-public-Mexican-hospital-7a807c1db3b641378180b0c60633c38b"
+			},
+      "start_date": {
+        "year": 2022,
+        "month": 8
+      },
+      "end_date": {
+        "year": 2023,
+        "month": 2
+      },
+			"text": {
+				"headline": "MexicanPACS",
+				"text": "<p>Contributed to the development of MexicanPACS, a software tool that enables doctors to estimate the risk of breast cancer for patients, using the DICOM standard. Assisted in the implementation of the software at a public hospital in Mexico. Skills used: OpenCV, Digital Image Processing, DICOM.</p>"
+      }
     }
   ]
 }
