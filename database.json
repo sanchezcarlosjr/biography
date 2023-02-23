@@ -55,6 +55,22 @@
       }
     },
     {
+			"media": {
+				"url": "./youtube.png",
+				"caption": "Youtube Channel content.",
+				"credit": "https://www.youtube.com/channel/UCUzvgrtcAM2Mj2PpqUN64Lg"
+			},
+			"start_date": {
+				"month": "2",
+				"day": "4",
+				"year": "2019"
+			},	
+			"text": {
+				"headline": "MAKE awesome projects with computer science",
+				"text": "<p>The scavenger hunt for developers: 10 min or shorter videos about big computer science ideas with code.</p>"
+      }
+    },
+    {
       "media": {
         "url": "./facultad-ciencias-uabc.jpg",
         "caption": "Universidad Autónoma de Baja California"
